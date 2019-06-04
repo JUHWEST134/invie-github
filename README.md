@@ -1,2 +1,2 @@
 # invie-github
-un proyecto nuevo 
+un proyecto nuevo del más allá
